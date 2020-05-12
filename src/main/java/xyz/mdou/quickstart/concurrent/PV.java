@@ -1,4 +1,4 @@
-package xyz.mdou.quickstart.concurrence;
+package xyz.mdou.quickstart.concurrent;
 
 import java.util.ArrayList;
 import java.util.List;
